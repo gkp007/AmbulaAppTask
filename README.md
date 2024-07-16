@@ -1,4 +1,4 @@
-# React Native Typescript Setup
+![Screenshot_1720796075](https://github.com/user-attachments/assets/81f93d1a-c603-43dd-afe0-ad675f8744bb)# React Native Typescript Setup
 
 ## Setup Navigation
 
@@ -6,8 +6,29 @@
 
 ```bash
 yarn add @react-navigation/native
-yarn add react-native-screens react-native-safe-area-context
-```
+yarn add react-nat![Screenshot_1720794765](https://github.com/user-attachments/assets/aed2a349-cd98-405d-8a5d-3b96bb5ae113)
+![Screensho![Screenshot_1720795952](https://github.com/user-attachments/assets/00d25752-167c-4a0f-a991-5a0c0b308c11)
+![Screenshot_1720730098](https://github.com/user-attachments/assets/66a3f122-1977-4f17-a357-80263acb927c)
+![Screenshot_1720730046](https://github.com/user-attachments/assets/29232e40-ad68-487f-94fd-5b4b07243d69)
+![Screenshot_1720730019](https://github.com/user-attachments/assets/d58674fd-78a8-456e-873d-664b045ea88d)
+![Screenshot_1720794798](https://github.com/user-attachments/assets/ba410b58-8a44-4024-9f8f-9794f6c9a9a6)
+![Screenshot_1720698052](https://github.com/user-attachments/assets/60c64e95-c4db-4d65-99db-f5d5ce20191c)
+t_1720794750](https://github.com/user-attachments/assets/d3363b98-f58d-4fc7-b8e5-5eca869e594![Screenshot_1720794772](https://github.com/user-attachments/assets/7be63f9a-4315-4fa8-9f01-d7a41a0cb6cd)
+8)
+![Screenshot_1720758119](https://github.com/user-attachments/assets/b0a701a4-e03e-4aad-8907-38cadb719316)
+![Screenshot_1720730108](https://github.com/user-attachments/assets/69a19519-2505-42f0-bf0d-c82ba24e8160)
+![Screenshot_1720796109](https://github.com/user-attachments/assets/3ae86e05-cb4b-4a53-98a2-17d4fe70ff77)
+![Screenshot_1720796144](https://github.com/user-attachments/assets/bc9b2645-952f-4b6f-b222-0a569f2c45a9)
+![Screenshot_1720796085](https://github.com/user-attachments/assets/155ca6a3-c8c0-47d7-b4df-a877d9af2a63)
+![Screenshot_1720796130](https://github.com/user-attachments/assets/b2a12c62-793c-44d6-842f-2633496b9751)
+ive-screens react-native-safe-area-context
+```![Screenshot![U![Screenshot_1720796079](https://github.com/user-attachments/assets/ba87056d-a5c2-4538-8664-54b549ed0345)
+ploading Screenshot_1720796075.png…]()
+![Screenshot_1720796068](https://github.com/user-attachments/assets/6b00defd-9779-4f16-ac88-f28b62e188f6)
+![Screenshot_1720795977](https://github.com/user-attachments/assets/dc75b50c-1ef2-450d-92a5-6d5c73bc509d)
+![Screenshot_1720795959](https://github.com/user-attachments/assets/76ad594f-4458-405a-b155-a734867327e6)
+_1720606877](https://github.com/user-attachments/assets/3ab2f1da-ac16-43aa-aed1-96c610dde05c)
+
 
 ### Install Pod for above dependencies
 
